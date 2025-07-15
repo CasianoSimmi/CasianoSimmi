@@ -2,7 +2,7 @@
 
 **`Desenbvolvedor Em Formação`**
 
-Meu nome é Casiano Iran Simmi, tenho 24 anos e sou Gaúcho. Atualmente estou estudando Análise e Desenvolvimento de Sistemas e estou no 4° Semestre de 5 Semestres, me interessei em Front-End (por agora). Tenho experiência com HTML, CSS, JavaScript, Python e busco sempre aprender novas ferramentas e boas práticas de desenvolvimento. Sou apaixonado por tecnologia rincipalmente por jogos e gosto de criar soluções que facilitem a vida das pessoas. Aqui no meu GitHub você vai encontrar projetos que desenvolvi durante meus estudos e também ideias próprias para praticar e evoluir minhas habilidades.
+Meu nome é Casiano Iran Simmi, tenho 24 anos e sou Gaúcho. Atualmente estou estudando Análise e Desenvolvimento de Sistemas e estou no 4° Semestre de 5 Semestres, me interessei em Front-End (por agora). Tenho experiência com HTML, CSS, JavaScript, Python e busco sempre aprender novas ferramentas e boas práticas de desenvolvimento. Sou apaixonado por tecnologia principalmente por jogos e gosto de criar soluções que facilitem a vida das pessoas. Aqui no meu GitHub você vai encontrar projetos que desenvolvi durante meus estudos e também ideias próprias para praticar e evoluir minhas habilidades.
 
 <p align="left">
     <a href="https://www.youtube.com/@ooshifT">
