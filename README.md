@@ -83,7 +83,7 @@ Meu nome é Casiano Iran Simmi, tenho 24 anos e sou Gaúcho. Atualmente estou es
       alt="GitHub Stats"
       height="200"
       style="pading-right: 10px"
-      src="https://github-readme-stats.vercel.app/api?username=CasianoSimmi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR"  
+      src="https://github-readme-stats.vercel.app/api?username=CasianoSimmi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  
     />
 
 <img 
